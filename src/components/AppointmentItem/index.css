@@ -1,0 +1,15 @@
+.appointment-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 300px;
+}
+
+.appointment-details {
+  flex: 1;
+}
+
+.star-img {
+  width: 20px;
+  height: 20px;
+}
